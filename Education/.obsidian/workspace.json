@@ -11,14 +11,12 @@
             "id": "b87051888b230ff7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4. Технологии Backend/1. Git/4.2 -- Отличие merge и rebase.md",
-                "mode": "source",
-                "source": false
+                "file": "4. Технологии Backend/1. Git/images/Pasted image 20251025150528.png"
               },
-              "icon": "lucide-file",
-              "title": "4.2 -- Отличие merge и rebase"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251025150528"
             }
           }
         ]
@@ -79,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -166,13 +163,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b87051888b230ff7",
+  "active": "67d5951338681d46",
   "lastOpenFiles": [
-    "Pasted image 20251026143847.png",
-    "4. Технологии Backend/1. Git/8. - Удаленный репозиторий.md",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025150528.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025170341.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025170437.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025170702.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025171159.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025172811.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025172928.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025211505.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025211808.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025212122.png",
+    "4. Технологии Backend/1. Git/images/Pasted image 20251025214607.png",
     "4. Технологии Backend/1. Git/4.2 -- Отличие merge и rebase.md",
-    "Pasted image 20251026141011.png",
-    "Pasted image 20251026140532.png",
+    "4. Технологии Backend/1. Git/8. - Удаленный репозиторий.md",
     "4. Технологии Backend/1. Git/4.1 -- Слияние ветвей.md",
     "4. Технологии Backend/1. Git/5. - Отмена изменений (reset и revert).md",
     "4. Технологии Backend/1. Git/2. - Внутренне устройство Git.md",
@@ -180,17 +185,9 @@
     "4. Технологии Backend/1. Git/4. -  Ветки в Git.md",
     "4. Технологии Backend/1. Git/1. - Начало работы с Git.md",
     "4. Технологии Backend/1. Git/8.1 -- Возможные КОНФЛИКТЫ при работе с удаленным репозиторием.md",
-    "Pasted image 20251026133350.png",
-    "Pasted image 20251026132831.png",
-    "Pasted image 20251026132454.png",
     "4. Технологии Backend/1. Git/9. - Настройка ФАЙЛА .gitignore.md",
     "4. Технологии Backend/1. Git/10. - Best Practices.md",
     "4. Технологии Backend/1. Git/TODO.md",
-    "Pasted image 20251026113955.png",
-    "Pasted image 20251026113214.png",
-    "Pasted image 20251026113051.png",
-    "Pasted image 20251026111844.png",
-    "Pasted image 20251026095618.png",
     "4. Технологии Backend/1. Git/999. - Локальный репозиторий.md",
     "4. Технологии Backend/1. Git/6. - ПЕРЕМЕЩЕНИЕ ИЗМЕНЕНИЙ.md",
     "4. Технологии Backend/1. Git/7. - Теги, git bisect и git describe.md",
