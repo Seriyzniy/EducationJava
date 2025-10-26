@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe75f63b3509d15",
+        "id": "ce56fed959bea1f5",
         "type": "tabs",
         "children": [
           {
-            "id": "cf9769c1533d42dc",
+            "id": "b87051888b230ff7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java17 (G.Shildt)/1. Java SE/12. TODO-List.md",
+                "file": "4. Технологии Backend/1. Git/4.2 -- Отличие merge и rebase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. TODO-List"
+              "title": "4.2 -- Отличие merge и rebase"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1234",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -165,45 +166,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67d5951338681d46",
+  "active": "b87051888b230ff7",
   "lastOpenFiles": [
+    "Pasted image 20251026143847.png",
+    "4. Технологии Backend/1. Git/8. - Удаленный репозиторий.md",
+    "4. Технологии Backend/1. Git/4.2 -- Отличие merge и rebase.md",
+    "Pasted image 20251026141011.png",
+    "Pasted image 20251026140532.png",
+    "4. Технологии Backend/1. Git/4.1 -- Слияние ветвей.md",
+    "4. Технологии Backend/1. Git/5. - Отмена изменений (reset и revert).md",
+    "4. Технологии Backend/1. Git/2. - Внутренне устройство Git.md",
+    "4. Технологии Backend/1. Git/3. - ОСНОВНЫЕ команды Git.md",
+    "4. Технологии Backend/1. Git/4. -  Ветки в Git.md",
+    "4. Технологии Backend/1. Git/1. - Начало работы с Git.md",
+    "4. Технологии Backend/1. Git/8.1 -- Возможные КОНФЛИКТЫ при работе с удаленным репозиторием.md",
+    "Pasted image 20251026133350.png",
+    "Pasted image 20251026132831.png",
+    "Pasted image 20251026132454.png",
+    "4. Технологии Backend/1. Git/9. - Настройка ФАЙЛА .gitignore.md",
+    "4. Технологии Backend/1. Git/10. - Best Practices.md",
+    "4. Технологии Backend/1. Git/TODO.md",
+    "Pasted image 20251026113955.png",
+    "Pasted image 20251026113214.png",
+    "Pasted image 20251026113051.png",
+    "Pasted image 20251026111844.png",
+    "Pasted image 20251026095618.png",
+    "4. Технологии Backend/1. Git/999. - Локальный репозиторий.md",
+    "4. Технологии Backend/1. Git/6. - ПЕРЕМЕЩЕНИЕ ИЗМЕНЕНИЙ.md",
+    "4. Технологии Backend/1. Git/7. - Теги, git bisect и git describe.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/5. - Использование служб (Services), ЛУЧШИЙ пример.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/4. - Экспортирование в конкретный модуль, requires transitive (A-B, B-C = A-C).md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/2. - Модуль java.base и модули платформы, и унаследованный немодульный код.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/1. - Анализ операторов  requires и exports.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/7. - Введение в jlink и файлы модулей JAR, JMOD.md",
+    "1. Java17 (G.Shildt)/1. Java SE/11. Многопоточность/1. Основы потоков/1.1 - Многопоточность, монитор объекта, виды блокировок, приоритет потока.md",
+    "999. 1С Предприятие/Основа 1С/2. 1С - Встроенный язык (код 1С).md",
+    "999. 1С Предприятие/Основа 1С/1. 1С - Общие принципы и понятия.md",
+    "4. Технологии Backend/1. Git/images",
+    "4. Технологии Backend/2. Docker/2. Практика/1. - Подготовка к работе с Docker.md",
+    "4. Технологии Backend/2. Docker/2. Практика/5. -  Работа с сетью Docker.md",
     "4. Технологии Backend/1. Git/Теория",
     "4. Технологии Backend/1. Git",
-    "4. Технологии Backend/2. Docker/1. Теория/11. - docker-compose.yml, утилита docker compose.md",
-    "4. Технологии Backend/2. Docker/1. Теория/6. - Dockerfile - файл для создания Image.md",
-    "4. Технологии Backend/2. Docker/1. Теория/5. - ОСНОВНЫЕ команды docker.md",
-    "4. Технологии Backend/2. Docker/1. Теория/11.1 -- КЛЮЧЕВЫЕ директивы в docker-compose.md",
-    "4. Технологии Backend/2. Docker/2. Практика/4. - Приложение для записи-хранения текстовых файлов + Volumes + сборка war.md",
-    "1. Java17 (G.Shildt)/1. Java SE/12. TODO-List.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/2. - Tomcat (консоль), НАСТРОЙКА, web.xml VS Annotation.md",
-    "1. Java17 (G.Shildt)/0. ЧИТАЙ ДОКУМЕНТАЦИЮ ВСЕГДА.md",
-    "1. Java17 (G.Shildt)/2. Java EE/1. Java EE - Обзор.md",
-    "4. Технологии Backend/1. Docker/TODO.md",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023103008.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023103545.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023103622.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023104046.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023104054.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023105509.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023112358.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023114015.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023114523.png",
-    "4. Технологии Backend/2. Docker/images/Pasted image 20251023181943.png",
-    "4. Технологии Backend/1. Docker/2. Практика/6. - Docker compose.md",
-    "4. Технологии Backend/2. Docker/1. Теория/10. - Docker Network (Сеть докер).md",
-    "4. Технологии Backend/2. Docker/2. Практика/5. -  Работа с сетью Docker.md",
-    "4. Технологии Backend/2. Docker/1. Теория/8. - Volume Mapping (Маппинг томов).md",
-    "1. Java17 (G.Shildt)/1. Java SE/13. Потоки Ввода-вывода и другие темы/1. Пакет java.io (ввод-вывод)/0. - ИЕРАРХИЯ потоков ввода-вывода + ПРАВИЛО оборачивания + СВОДКА по классам иерархии.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/5. - Формат .WAR (Web-Application Archive).md",
-    "2. Spring Framework/2. Spring Web/5.1 ПРАКТИКА - CRUD, метод READ.md",
-    "1. Java17 (G.Shildt)/1. - УТИЛИТЫ javac, jar, java.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/3. - Простой сервлет.md",
-    "2. Spring Framework/2. Spring Web/5. CRUD, REST, Паттерн DAO (Data Access Object).md",
-    "2. Spring Framework/2. Spring Web/4.1 ПРАКТИКА - Возврат данных пользователю.md",
-    "2. Spring Framework/2. Spring Web/1.2 ПРАКТИКА - Конфиг с XML и Java-код.md",
-    "4. Технологии Backend/2. Docker/2. Практика/3. - Создание Docker File для приложения java.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/4. - Сервлеты Jakarta.md",
-    "1. Java17 (G.Shildt)/1. Java SE/13. Потоки Ввода-вывода и другие темы/1. Пакет java.io (ввод-вывод)/1. Классы ПОТОКОВ ВВОДА-ВЫВОДА/3.1 - BufferedReader.md",
     "4. Технологии Backend/1. Docker/1. Теория/Команды Docker",
     "4. Технологии Backend/1. Docker/Мануал по Docker.pdf",
     "4. Технологии Backend/2. Docker/2. Практика",
@@ -211,8 +214,6 @@
     "4. Технологии Backend/2. Docker/images",
     "4. Технологии Backend/2. Docker",
     "4. Технологии Backend",
-    "Руководство по Java (Герберт Шилдт, 17 Java)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet.http/3. Обертки",
-    "Руководство по Java (Герберт Шилдт, 17 Java)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet.http/2. Конфигурация сервлетов",
     "Untitled.canvas"
   ]
 }
