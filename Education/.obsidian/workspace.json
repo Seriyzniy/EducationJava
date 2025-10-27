@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ce56fed959bea1f5",
+        "id": "165e302d8e56e186",
         "type": "tabs",
         "children": [
           {
-            "id": "b87051888b230ff7",
+            "id": "31cfaf56897ef151",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102948.png"
+                "file": "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027194701.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251027102948"
+              "title": "Pasted image 20251027194701"
             }
           }
         ]
@@ -154,30 +154,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "67d5951338681d46",
   "lastOpenFiles": [
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027191731.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027191427.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027190227.png",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/3. - TODO Kubernetes Deployment.md",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027194701.png",
+    "4. Технологии Backend/2. Docker/1. Теория/11.1 -- КЛЮЧЕВЫЕ директивы в docker-compose.md",
+    "4. Технологии Backend/2. Docker/1. Теория/11. - docker-compose.yml, утилита docker compose.md",
+    "4. Технологии Backend/2. Docker/1. Теория/9. - Переменные окружения.md",
+    "4. Технологии Backend/2. Docker/1. Теория/7. - Port Mapping (Публикация портов).md",
+    "4. Технологии Backend/2. Docker/1. Теория/6. - Dockerfile - файл для создания Image.md",
+    "4. Технологии Backend/2. Docker/1. Теория/5. - ОСНОВНЫЕ команды docker.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/2. - Основные компоненты Kubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/1. - Введение в Kubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027181146.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102052.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102948.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027101452.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027101051.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027100723.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027095703.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027095151.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027093400.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027092431.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027092255.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027091859.png",
-    "4. Технологии Backend/3. Kubernetes/2. - Компоненты Kubernetes.md",
-    "4. Технологии Backend/3. Kubernetes/1. - Введение в Kubernetes.md",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102948.png",
     "TO BE CyberSecurity.md",
     "4. Технологии Backend/3. Kubernetes/images",
     "4. Технологии Backend/3. Kubernetes",
@@ -196,13 +203,6 @@
     "4. Технологии Backend/1. Git/999. - Локальный репозиторий.md",
     "4. Технологии Backend/1. Git/6. - ПЕРЕМЕЩЕНИЕ ИЗМЕНЕНИЙ.md",
     "4. Технологии Backend/1. Git/7. - Теги, git bisect и git describe.md",
-    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/5. - Использование служб (Services), ЛУЧШИЙ пример.md",
-    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/4. - Экспортирование в конкретный модуль, requires transitive (A-B, B-C = A-C).md",
-    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/2. - Модуль java.base и модули платформы, и унаследованный немодульный код.md",
-    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/1. - Анализ операторов  requires и exports.md",
-    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/7. - Введение в jlink и файлы модулей JAR, JMOD.md",
-    "1. Java17 (G.Shildt)/1. Java SE/11. Многопоточность/1. Основы потоков/1.1 - Многопоточность, монитор объекта, виды блокировок, приоритет потока.md",
-    "999. 1С Предприятие/Основа 1С/2. 1С - Встроенный язык (код 1С).md",
     "4. Технологии Backend/1. Git/images",
     "4. Технологии Backend/1. Git/Теория",
     "4. Технологии Backend/1. Git",
@@ -210,7 +210,6 @@
     "4. Технологии Backend/1. Docker/Мануал по Docker.pdf",
     "4. Технологии Backend/2. Docker/2. Практика",
     "4. Технологии Backend/2. Docker/1. Теория",
-    "4. Технологии Backend/2. Docker/images",
     "Untitled.canvas"
   ]
 }
