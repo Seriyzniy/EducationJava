@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "4. Технологии Backend/1. Git/images/Pasted image 20251025150528.png"
+                "file": "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102948.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251025150528"
+              "title": "Pasted image 20251027102948"
             }
           }
         ]
@@ -165,17 +165,22 @@
   },
   "active": "67d5951338681d46",
   "lastOpenFiles": [
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025150528.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025170341.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025170437.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025170702.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025171159.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025172811.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025172928.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025211505.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025211808.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025212122.png",
-    "4. Технологии Backend/1. Git/images/Pasted image 20251025214607.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102052.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027101452.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027101051.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027100723.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027095703.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027095151.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027093400.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027092431.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027092255.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027091859.png",
+    "4. Технологии Backend/3. Kubernetes/2. - Компоненты Kubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/1. - Введение в Kubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102948.png",
+    "TO BE CyberSecurity.md",
+    "4. Технологии Backend/3. Kubernetes/images",
+    "4. Технологии Backend/3. Kubernetes",
     "4. Технологии Backend/1. Git/4.2 -- Отличие merge и rebase.md",
     "4. Технологии Backend/1. Git/8. - Удаленный репозиторий.md",
     "4. Технологии Backend/1. Git/4.1 -- Слияние ветвей.md",
@@ -198,10 +203,7 @@
     "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/7. - Введение в jlink и файлы модулей JAR, JMOD.md",
     "1. Java17 (G.Shildt)/1. Java SE/11. Многопоточность/1. Основы потоков/1.1 - Многопоточность, монитор объекта, виды блокировок, приоритет потока.md",
     "999. 1С Предприятие/Основа 1С/2. 1С - Встроенный язык (код 1С).md",
-    "999. 1С Предприятие/Основа 1С/1. 1С - Общие принципы и понятия.md",
     "4. Технологии Backend/1. Git/images",
-    "4. Технологии Backend/2. Docker/2. Практика/1. - Подготовка к работе с Docker.md",
-    "4. Технологии Backend/2. Docker/2. Практика/5. -  Работа с сетью Docker.md",
     "4. Технологии Backend/1. Git/Теория",
     "4. Технологии Backend/1. Git",
     "4. Технологии Backend/1. Docker/1. Теория/Команды Docker",
@@ -209,8 +211,6 @@
     "4. Технологии Backend/2. Docker/2. Практика",
     "4. Технологии Backend/2. Docker/1. Теория",
     "4. Технологии Backend/2. Docker/images",
-    "4. Технологии Backend/2. Docker",
-    "4. Технологии Backend",
     "Untitled.canvas"
   ]
 }
