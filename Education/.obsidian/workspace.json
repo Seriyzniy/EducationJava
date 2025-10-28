@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "165e302d8e56e186",
+        "id": "6803b8e0abb22619",
         "type": "tabs",
         "children": [
           {
-            "id": "31cfaf56897ef151",
+            "id": "7d29e43cae43a95f",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027194701.png"
+                "file": "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028105309.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251027194701"
+              "title": "Pasted image 20251028105309"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 370.5
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -165,26 +165,31 @@
   },
   "active": "67d5951338681d46",
   "lastOpenFiles": [
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028095556.png",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028091226.png",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/4.1 -- Процессы в K8s (Deployments и ReplicaSets, и др).md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/4. - Процессы в K8s (kubectl, kube-apiserver,etcd,initializers).md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/Краткие пометки/1. OpenApi в Kubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/Краткие пометки",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/3. - YAML-манифест вKubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028105309.png",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/2. - Основные компоненты Kubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/3. - Kubernetes Deployment.md",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027194701.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027191731.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027191427.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027190227.png",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/3. - TODO Kubernetes Deployment.md",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027194701.png",
     "4. Технологии Backend/2. Docker/1. Теория/11.1 -- КЛЮЧЕВЫЕ директивы в docker-compose.md",
     "4. Технологии Backend/2. Docker/1. Теория/11. - docker-compose.yml, утилита docker compose.md",
     "4. Технологии Backend/2. Docker/1. Теория/9. - Переменные окружения.md",
     "4. Технологии Backend/2. Docker/1. Теория/7. - Port Mapping (Публикация портов).md",
     "4. Технологии Backend/2. Docker/1. Теория/6. - Dockerfile - файл для создания Image.md",
     "4. Технологии Backend/2. Docker/1. Теория/5. - ОСНОВНЫЕ команды docker.md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/2. - Основные компоненты Kubernetes.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория/1. - Введение в Kubernetes.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027181146.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102052.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102948.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027101452.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027101051.png",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027100723.png",
     "TO BE CyberSecurity.md",
     "4. Технологии Backend/3. Kubernetes/images",
     "4. Технологии Backend/3. Kubernetes",
@@ -199,17 +204,12 @@
     "4. Технологии Backend/1. Git/8.1 -- Возможные КОНФЛИКТЫ при работе с удаленным репозиторием.md",
     "4. Технологии Backend/1. Git/9. - Настройка ФАЙЛА .gitignore.md",
     "4. Технологии Backend/1. Git/10. - Best Practices.md",
-    "4. Технологии Backend/1. Git/TODO.md",
-    "4. Технологии Backend/1. Git/999. - Локальный репозиторий.md",
-    "4. Технологии Backend/1. Git/6. - ПЕРЕМЕЩЕНИЕ ИЗМЕНЕНИЙ.md",
-    "4. Технологии Backend/1. Git/7. - Теги, git bisect и git describe.md",
     "4. Технологии Backend/1. Git/images",
     "4. Технологии Backend/1. Git/Теория",
     "4. Технологии Backend/1. Git",
     "4. Технологии Backend/1. Docker/1. Теория/Команды Docker",
     "4. Технологии Backend/1. Docker/Мануал по Docker.pdf",
     "4. Технологии Backend/2. Docker/2. Практика",
-    "4. Технологии Backend/2. Docker/1. Теория",
     "Untitled.canvas"
   ]
 }
