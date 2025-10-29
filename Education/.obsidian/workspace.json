@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6803b8e0abb22619",
+        "id": "a962bb7a122b05ce",
         "type": "tabs",
         "children": [
           {
-            "id": "7d29e43cae43a95f",
+            "id": "6919457b16829043",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028105309.png"
+                "file": "Стиль Obsidian . css.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251028105309"
+              "icon": "lucide-file",
+              "title": "Стиль Obsidian . css"
             }
           }
         ]
@@ -77,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 393.5
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -163,47 +165,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "67d5951338681d46",
+  "active": "6919457b16829043",
   "lastOpenFiles": [
+    "4. Технологии Backend/3. Kubernetes/1. Теория/5. - TODO Helm.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/1. - Введение в Kubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/4.1 -- Процессы в K8s (Deployments и ReplicaSets, и др).md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/5. - Использование служб (Services), ЛУЧШИЙ пример.md",
+    "Стиль Obsidian . css.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/Краткие пометки/2. Namespace в Linux.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/4. - Процессы в K8s (kubectl, kube-apiserver,etcd,initializers).md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/3. - TODO Deprecated - Kubernetes Deployment.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/2. - Основные компоненты Kubernetes.md",
+    "4. Технологии Backend/2. Docker/1. Теория/11. - Docker-Compose.yml, утилита docker compose.md",
+    "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/0. - Лямбды под капотом и отличие от Анонимного класса.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/7. - Введение в jlink и файлы модулей JAR, JMOD.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/6. - Графы модулей, (open module), (opens ... to... ), (requires static).md",
+    "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/4. - Лямбда-выражения и исключения.md",
+    "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/2 - Обобщенные функциональные интерфейсы.md",
+    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/3. - Path, Files, Paths, FileSystem(s), FileStore/5. - BasicFileAttributes, DosFileAttributes и PosixFileAttributes.md",
+    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/3. - Path, Files, Paths, FileSystem(s), FileStore/4. - FileSystem, FileSystems и FileStore.md",
+    "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/1. - Введение в лямбда-выражения.md",
+    "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/3. - Передача лямбда-выражений как аргументов.md",
+    "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/6. - Ссылки на методы, конструкторы и массивы.md",
+    "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/5. - Лямбда-выражения и захват переменных.md",
+    "4. Технологии Backend/1. Git/1. - Начало работы с Git.md",
+    "4. Технологии Backend/1. Git/2. - Внутренне устройство Git.md",
+    "4. Технологии Backend/1. Git/4. -  Ветки в Git.md",
+    "4. Технологии Backend/1. Git/3. - ОСНОВНЫЕ команды Git.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/0. - Введение в модули и их основы, НЕ СОВСЕМ КОРРЕКТНЫЙ пример.md",
+    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028105309.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028095556.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028091226.png",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/4.1 -- Процессы в K8s (Deployments и ReplicaSets, и др).md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/4. - Процессы в K8s (kubectl, kube-apiserver,etcd,initializers).md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/Краткие пометки/1. OpenApi в Kubernetes.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория/Краткие пометки",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/3. - YAML-манифест вKubernetes.md",
-    "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251028105309.png",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/2. - Основные компоненты Kubernetes.md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/3. - Kubernetes Deployment.md",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027194701.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027191731.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027191427.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027190227.png",
-    "4. Технологии Backend/2. Docker/1. Теория/11.1 -- КЛЮЧЕВЫЕ директивы в docker-compose.md",
-    "4. Технологии Backend/2. Docker/1. Теория/11. - docker-compose.yml, утилита docker compose.md",
-    "4. Технологии Backend/2. Docker/1. Теория/9. - Переменные окружения.md",
-    "4. Технологии Backend/2. Docker/1. Теория/7. - Port Mapping (Публикация портов).md",
-    "4. Технологии Backend/2. Docker/1. Теория/6. - Dockerfile - файл для создания Image.md",
-    "4. Технологии Backend/2. Docker/1. Теория/5. - ОСНОВНЫЕ команды docker.md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/1. - Введение в Kubernetes.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027181146.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102052.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251027102948.png",
-    "TO BE CyberSecurity.md",
     "4. Технологии Backend/3. Kubernetes/images",
     "4. Технологии Backend/3. Kubernetes",
-    "4. Технологии Backend/1. Git/4.2 -- Отличие merge и rebase.md",
-    "4. Технологии Backend/1. Git/8. - Удаленный репозиторий.md",
-    "4. Технологии Backend/1. Git/4.1 -- Слияние ветвей.md",
-    "4. Технологии Backend/1. Git/5. - Отмена изменений (reset и revert).md",
-    "4. Технологии Backend/1. Git/2. - Внутренне устройство Git.md",
-    "4. Технологии Backend/1. Git/3. - ОСНОВНЫЕ команды Git.md",
-    "4. Технологии Backend/1. Git/4. -  Ветки в Git.md",
-    "4. Технологии Backend/1. Git/1. - Начало работы с Git.md",
-    "4. Технологии Backend/1. Git/8.1 -- Возможные КОНФЛИКТЫ при работе с удаленным репозиторием.md",
-    "4. Технологии Backend/1. Git/9. - Настройка ФАЙЛА .gitignore.md",
-    "4. Технологии Backend/1. Git/10. - Best Practices.md",
     "4. Технологии Backend/1. Git/images",
     "4. Технологии Backend/1. Git/Теория",
     "4. Технологии Backend/1. Git",

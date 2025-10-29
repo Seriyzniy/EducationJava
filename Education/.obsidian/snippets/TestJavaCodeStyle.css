@@ -1,0 +1,47 @@
+/* Ключевые слова - оранжевые */
+.cm-keyword, .token.keyword {
+    color: #ce8951 !important;
+}
+
+/* Типы данных вообще все*/
+.cm-type{
+    color: #bcbec4 !important;
+}
+
+/* Имена Классов через class*/
+.cm-def {
+    color: #56a8f5 !important;
+}
+
+/* Имена переменных и функций*/
+.cm-variable {
+    color: #707070 !important;
+}
+
+
+
+/* Числа - берюзовые */
+.cm-number, .token.number {
+    color: #4ec9b0 !important;
+}
+
+/* Строки - зеленые */
+.cm-string, .token.string {
+    color: #6a8759 !important;
+}
+
+/* Комментарии - темно-серые */
+.cm-comment, .token.comment {
+    color: #666666 !important;
+}
+
+/* Аннотации - желтые */
+.cm-meta, .token.meta {
+    color: #bbb529 !important;
+}
+
+/* Операторы, пунктуация, остальной текст - белые */
+.cm-operator, .token.operator, 
+.cm-punctuation, .token.punctuation {
+    color: #ffffff !important;
+}

@@ -1,4 +1,13 @@
 {
-  "cssTheme": "Typewriter",
-  "theme": "system"
+  "cssTheme": "",
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "accentColor": "#8387fb",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "MyJetBrainsMain",
+    "JavaCodeStyle",
+    "JavaCodeStyleMain"
+  ],
+  "textFontFamily": "JetBrains Mono,Arial"
 }
