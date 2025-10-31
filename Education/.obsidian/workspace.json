@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43a93a24170886ac",
+            "id": "e354ef478ae3007b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Технологии Backend/3. Kubernetes/1. Теория/5. - Ingress в K8s.md",
+                "file": "4. Технологии Backend/3. Kubernetes/1. Теория/7. - Объекты Deployment, ReplicaSet и др, и их манифесты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. - Ingress в K8s"
+              "title": "7. - Объекты Deployment, ReplicaSet и др, и их манифесты"
             }
           }
         ]
@@ -165,18 +165,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "43a93a24170886ac",
+  "active": "e354ef478ae3007b",
   "lastOpenFiles": [
+    "4. Технологии Backend/3. Kubernetes/1. Теория/8. - ОСНОВНЫЕ КОМАНДЫ kubectl.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/7. - Объекты Deployment, ReplicaSet и др, и их манифесты.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/3.1 -- Процессы в K8s (Deployments и ReplicaSets, и др).md",
     "4. Технологии Backend/3. Kubernetes/1. Теория/3. - Процессы в K8s (kubectl, kube-apiserver,etcd,initializers).md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/9.1 - ОСНОВНЫЕ КОМАНДЫ  helm.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/2. - Основные компоненты Kubernetes.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/9. - Helm (Пакетный менеджер).md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/TODO.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/0. - ССЫЛКА НА КУРС (практический).md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/7.1 -- Livenesss and Readiness probe.md",
+    "4. Технологии Backend/3. Kubernetes/1. Теория/5. - Ingress в K8s.md",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251030142520.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251030141228.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251030133540.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251030125229.png",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/5. - Ingress в K8s.md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/TODO.md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/7. - Объекты Deployment, ReplicaSet и др, и их манифесты.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория/4. - Сетевая модель Kubernetes, Объекты Service.md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/7.1 -- Livenesss and Readiness probe.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория/6. - YAML-манифест в Kubernetes.md",
     "Pasted image 20251030133345.png",
     "Pasted image 20251030125129.png",
@@ -184,10 +190,7 @@
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251030121501.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251030121323.png",
     "4. Технологии Backend/3. Kubernetes/images/Pasted image 20251030121252.png",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/2. - Основные компоненты Kubernetes.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория/Краткие пометки/3. EndpointSlice.md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/999. - TODO Helm.md",
-    "4. Технологии Backend/3. Kubernetes/1. Теория/3.1 -- Процессы в K8s (Deployments и ReplicaSets, и др).md",
     "1. Java17 (G.Shildt)/1. Java SE/12. TODO-List.md",
     "Стиль Obsidian . css.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория/1. - Введение в Kubernetes.md",
@@ -200,8 +203,6 @@
     "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/6. - Графы модулей, (open module), (opens ... to... ), (requires static).md",
     "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/4. - Лямбда-выражения и исключения.md",
     "1. Java17 (G.Shildt)/1. Java SE/15. Лямбды, Анонимные классы, ФУНКЦИОНАЛЬНЫЕ интерфейсы/2 - Обобщенные функциональные интерфейсы.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/3. - Path, Files, Paths, FileSystem(s), FileStore/5. - BasicFileAttributes, DosFileAttributes и PosixFileAttributes.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/3. - Path, Files, Paths, FileSystem(s), FileStore/4. - FileSystem, FileSystems и FileStore.md",
     "4. Технологии Backend/3. Kubernetes/1. Теория/Краткие пометки",
     "4. Технологии Backend/3. Kubernetes/1. Теория",
     "4. Технологии Backend/3. Kubernetes/images",
