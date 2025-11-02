@@ -6,7 +6,8 @@
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "MyJetBrainsMain",
-    "JavaCodeStyle"
+    "JavaCodeStyle",
+    "JavaCodeStyleMain"
   ],
   "textFontFamily": "JetBrains Mono,Arial"
 }
