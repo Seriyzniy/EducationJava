@@ -1,12 +1,12 @@
 {
-  "cssTheme": "",
+  "cssTheme": "GitHub Theme",
   "theme": "system",
   "interfaceFontFamily": "",
-  "accentColor": "#8387fb",
+  "accentColor": "#6c8ff9",
   "baseFontSize": 18,
   "enabledCssSnippets": [
-    "MyJetBrainsMain",
     "JavaCodeStyle"
   ],
-  "textFontFamily": "JetBrains Mono,Arial"
+  "textFontFamily": "JetBrains Mono,Arial",
+  "nativeMenus": true
 }

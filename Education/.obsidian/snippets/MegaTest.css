@@ -1,0 +1,56 @@
+/* === JETBRAINS THEME FOR OBSIDIAN === */
+
+:root {
+    --jb-bg: #2b2b2b;
+    --jb-text: #a9b7c6;
+    --jb-keyword: #cc7832;
+    --jb-string: #6a8759;
+    --jb-number: #6897bb;
+    --jb-type: #ffc66d;
+    --jb-comment: #808080;
+}
+
+/* Callout блоки */
+.callout {
+    border-radius: 4px;
+    border-left-width: 3px;
+    margin: 16px 0;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.callout[data-callout="note"] {
+    background: #3c3f41 !important;
+    border-color: var(--jb-comment) !important;
+    color: var(--jb-text) !important;
+}
+
+.callout[data-callout="info"] {
+    background: var(--jb-bg) !important;
+    border-color: var(--jb-type) !important;
+    color: var(--jb-type) !important;
+}
+
+.callout[data-callout="tip"] {
+    background: var(--jb-bg) !important;
+    border-color: var(--jb-string) !important;
+    color: var(--jb-string) !important;
+}
+
+.callout[data-callout="warning"] {
+    background: var(--jb-bg) !important;
+    border-color: var(--jb-keyword) !important;
+    color: var(--jb-keyword) !important;
+}
+
+/* Жирный текст */
+strong { color: var(--jb-type) !important; }
+
+/* Выделенный текст */
+mark { background: #214283 !important; color: white !important; }
+
+/* Код в тексте */
+.cm-inline-code {
+    background: #3c3f41 !important;
+    color: var(--jb-text) !important;
+    font-family: 'JetBrains Mono', monospace;
+}

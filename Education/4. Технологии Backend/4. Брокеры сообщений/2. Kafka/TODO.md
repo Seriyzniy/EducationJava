@@ -1,2 +1,3 @@
-1) пАРАМЕТРЫ НАСТРОЙКИ ДЛЯ pRODUCER, Consumer и прочие
-2) Прочитать статью [Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka. Глава 3. Kafka / Хабр](https://habr.com/ru/articles/466585/) и дополнить теорию
+1) KafkaAPI в Java + пАРАМЕТРЫ НАСТРОЙКИ ДЛЯ pRODUCER, Consumer и прочие
+2) Схема (очередность) работы с Kafka API (как в ActiveMQ) - НАРИСОВАТЬ
+3) ConfigResource из org.apache.kafka.common.config

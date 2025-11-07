@@ -1,2 +1,2 @@
-1) JMS (Java Message Service) и ActiveMQ
+1) Отличия архитектуры, принципов работы брокеров сообщений друг от друга
 2) Как обеспечить exatly_once, least_once< nmost_once

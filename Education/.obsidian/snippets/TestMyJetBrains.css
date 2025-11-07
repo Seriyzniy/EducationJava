@@ -1,9 +1,33 @@
+
+/* Общие стили для всех callout-блоков */
+.callout[data-callout="note"] {
+    border-radius: 16px !important;
+    border-left-width: 12px !important;
+    margin: 16px 0 !important;
+
+    background-color: #ffdad9 !important;  /* Светло-золотой фон */
+    border-color: #e7817e !important;      /* Золотая граница */
+    color: #261b17 !important;             /* Темно-коричневый текст *
+
+}
+
+.callout-title[data-callout="note"] {
+    color: #e7817e !important;             /* Текст заголовка */
+}
+
+
+/* Цвет рабочей области */
+.workspace-leaf-content[data-type="markdown"] .view-content {
+    background-color: #1e1f22 !important;
+}
+
 /* Выделение текста ==маркером== */
 .cm-highlight, mark {
     color: #f5f5f5 !important;
-    text-shadow: 1px 1px 2px black;
-    background-color: #D68631 !important;
+    text-shadow: 1px 1px 1px black;
+    background-color: #f6a483 !important;
 }
+
 
 /* Жирный шрифт */
 .cm-strong, strong {
@@ -15,7 +39,7 @@
 .markdown-rendered code:not(pre code) {
     color: #ffffff !important;
     text-shadow: 1px 1px 2px black;
-    background-color: #cca8f5 !important;
+    background-color: #c18ed4 !important;
     border-radius: 10px;
     padding: 2px 6px;
     font-family: 'JetBrains Mono', 'Fira Code', monospace;
