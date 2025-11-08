@@ -1,10 +1,10 @@
 1) KafkaAPI в Java + пАРАМЕТРЫ НАСТРОЙКИ ДЛЯ pRODUCER, Consumer и прочие
 2) Схема (очередность) работы с Kafka API (как в ActiveMQ) - НАРИСОВАТЬ
+		Полная схема взаимодействия и краткая. Что происходит при развертывании kafka, что происходит при создании топиков и партиций через CLI. Что происходит при регистрации Producer и Consumer. Из каких компонентов состоит Cluster (подробнее). Куда именно отправлется запрос о метаданных кластера? Где именно создаются группы, и как Kafka знает о группах Consumer (для балансировки). Типы групп в Kafka (coordinator, consumer и т.д)
 3) ConfigResource из org.apache.kafka.common.config
-4) TopicPartition - org.apache.kafka.common
-5) ConfigDef
-6) Транзакции в Kafka
-
+4) ConfigDef
+5) Транзакции в Kafka
+6) Какие метрики есть в Kafka ?
 
 
 

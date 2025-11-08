@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3544fbb963f2ff0f",
+        "id": "f4395f1f158ed1fb",
         "type": "tabs",
         "children": [
           {
-            "id": "7acd7eca901b1b5c",
+            "id": "f74e8a4532b98545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/TODO.md",
+                "file": "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/0. Материалы и ПАКЕТЫ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "0. Материалы и ПАКЕТЫ"
             }
           },
           {
-            "id": "4dfb415fbb61be31",
+            "id": "cdf0d4c95132b798",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 485.5,
+    "collapsed": true
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -179,45 +180,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "7acd7eca901b1b5c",
+  "active": "f74e8a4532b98545",
   "lastOpenFiles": [
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API/1.2 -- Класс KafkaConsumer.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/3. Группы Consumer/1. - Класс  ConsumerGroupMetadata.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/0. - ОБЗОР Producer API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/2. Сериализация -  common.serialization/0. - ОБЗОР Common Serialization API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/1. Ядро Common API - common/0. - ОБЗОР Common API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/0. - ОБЗОР  Consumer API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/0. - ОБЗОР Admin API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/2. Сериализация -  common.serialization/3. - Интерфейс Serde и Фабрика Serdes.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/2. Сериализация -  common.serialization/2. - Интерфейс Deserializer.md",
+    "1. Java17 (G.Shildt)/1. Java SE/12. TODO-List.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/2. Сериализация -  common.serialization/1. - Интерфейс Serializer.md",
+    "Шаблоны для конспекта.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/0. Материалы и ПАКЕТЫ.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/0. - Обзор Producer API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/2. Сериализация -  common.serialization",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/TODO.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/1. Ядро Common API - common/4. - Интерфейс Metric и Класс Metrics.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/1. Ядро Common API - common/5.- Класс MetricName.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/1. Ядро Common API - common/3. - Класс KafkaFuture.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1.-  TODO Архитектура Kafka API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API/1. - Интерфейс Consumer.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/1. Конфигурация Kafka/1. - Интерфейс Admin.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/1. Ядро Common API - common/2. - Класс TopicPartition.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/1. Ядро Common API - common/1. - Класс Cluster.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/1. Ядро Common API - common",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common/Untitled.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/4. Common API - org.apache.kafka.common",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/1. Ядро Producer API/2. - Класс ProducerRecord.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/2. Классы Callback-ов/1. - Интерфейс Callback.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/2. Классы Callback-ов",
-    "Шаблоны для конспекта.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/1. Конфигурация Kafka/1.2 -- Класс KafkaAdminClient.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/1. Конфигурация Kafka/1.1 -- Класс AdminClientConfig.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API/1.1 -- Класс ConsumerConfig.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API/1.2 -- Класс KafkaConsumer.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/1. Ядро Producer API/1.1 -- Класс ProducerConfig.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/1. Ядро Producer API/1.2 -- Класс KafkaProducer.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/1. Ядро Producer API/3. - Класс  RecordMetadata.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API/3. - Классы ConsumerRecord и ConsumerRecords.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API/4. - Классы OffsetAndMetadata и OffsetAndTimestamp.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/1. Конфигурация Kafka/1. - Интерфейс Admin.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/1. Конфигурация Kafka/3. - Класс DescribeConfigsOptions.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/1. Конфигурация Kafka/2. - DescribeConfigsResult.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/0. - Материалы.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/0. - Материалы.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/1. Теория/6. - Отправка данных, Producer (at most-least-exactly once).md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/TODO.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/1. Ядро Producer API/1. - Интерфейс Producer.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer/1. Ядро Producer API",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/0. - Обзор Admin API.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/0. - Обзор  Consumer API.md",
-    "4. Технологии Backend/4. Брокеры сообщений/1. ActiveMQ/2. Практика/1. - Практика ActiveMQ на очереди.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/3. Producer API - org.apache.kafka.clients.producer",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/Untitled.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/3. Группы Consumer",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/2. Классы Callback-ов",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/2. Consumer API - org.apache.kafka.clients.consumer",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/2. Работа с топиками",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin/1. Конфигурация Kafka",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/images/Pasted image 20251106203708.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/2. Kafka API/1. Admin API - org.apache.kafka.clients.admin",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/images/Pasted image 20251106104631.png",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/images/Pasted image 20251106104322.png",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka/images/Pasted image 20251106103740.png",
