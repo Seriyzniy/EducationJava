@@ -1,3 +1,8 @@
+/* Цвет рабочей области */
+.workspace-leaf-content[data-type="markdown"] .view-content {
+    background-color: #1e1f22 !important;
+}
+
 
 /* Общие стили для всех callout-блоков */
 .callout[data-callout="note"] {
@@ -5,34 +10,32 @@
     border-left-width: 12px !important;
     margin: 16px 0 !important;
 
-    background-color: #ffdad9 !important;  /* Светло-золотой фон */
-    border-color: #e7817e !important;      /* Золотая граница */
-    color: #261b17 !important;             /* Темно-коричневый текст *
+    background-color: #d1d6e2 !important;  
+    border-color: #6494c6 !important;      
+    color: #1b2a32 !important;  
+    font-weight: 700 !important;           
 
 }
-
 .callout-title[data-callout="note"] {
-    color: #e7817e !important;             /* Текст заголовка */
+    color: #1b2a32 !important;            
 }
 
-
-/* Цвет рабочей области */
-.workspace-leaf-content[data-type="markdown"] .view-content {
-    background-color: #1e1f22 !important;
-}
 
 /* Выделение текста ==маркером== */
 .cm-highlight, mark {
-    color: #f5f5f5 !important;
-    text-shadow: 1px 1px 1px black;
-    background-color: #f6a483 !important;
+    color: #1b2a32 !important;
+    font-weight: 750 !important;
+    background-color: #9de07e !important;
 }
 
 
 /* Жирный шрифт */
 .cm-strong, strong {
-    color: #56a8f5 !important;
+    color: #b92edb !important;
+    font-weight: 650 !important;
 }
+
+
 
 /* Стили для inline-кода, но не внутри callout и блоков кода */
 .cm-s-obsidian span.cm-inline-code:not(.cm-formatting),
@@ -47,21 +50,21 @@
 
 /* Заголовки */
 .cm-header-1, h1 {
-    color: #e7817e !important;
+    color: #ff5d65 !important;
 }
 
 .cm-header-2, h2 {
-    color: #e69875 !important;
+    color: #f28c54 !important;
 }
 
 .cm-header-3, h3 {
-    color: #dbe87d !important;
+    color: #f0c360 !important;
 }
 
 .cm-header-4, h4 {
-    color: #98e97c !important;
+    color: #9de07e !important;
 }
 
 .cm-header-5, h5 {
-    color: #7ce9b8 !important;
+    color: #7ee0bc !important;
 }
