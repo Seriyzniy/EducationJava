@@ -10,8 +10,8 @@
     border-left-width: 12px !important;
     margin: 16px 0 !important;
 
-    background-color: #d1d6e2 !important;  
-    border-color: #6494c6 !important;      
+    background-color: #dbdbd3 !important;  
+    border-color: #5e6063!important;      
     color: #1b2a32 !important;  
     font-weight: 700 !important;           
 
@@ -24,14 +24,15 @@
 /* Выделение текста ==маркером== */
 .cm-highlight, mark {
     color: #1b2a32 !important;
-    font-weight: 750 !important;
-    background-color: #9de07e !important;
+    font-weight: 700 !important;
+    background-color: #ff8661 !important;
 }
 
 
 /* Жирный шрифт */
 .cm-strong, strong {
-    color: #b92edb !important;
+    color: #bdd4d9 !important;
+    text-shadow: 1px 1px 2px black;
     font-weight: 650 !important;
 }
 
