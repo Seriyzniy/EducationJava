@@ -1,8 +1,3 @@
-/* Цвет рабочей области */
-.workspace-leaf-content[data-type="markdown"] .view-content {
-    background-color: #1e1f22 !important;
-}
-
 
 /* Общие стили для всех callout-блоков */
 .callout[data-callout="note"] {
@@ -25,14 +20,14 @@
 .cm-highlight, mark {
     color: #1b2a32 !important;
     font-weight: 700 !important;
-    background-color: #ff8661 !important;
+    background-color: #d8e8d8 !important;
 }
 
 
 /* Жирный шрифт */
 .cm-strong, strong {
-    color: #bdd4d9 !important;
-    text-shadow: 1px 1px 2px black;
+    color: #5facfa !important;
+    text-shadow: 1px 0px 0px #2d402e;
     font-weight: 650 !important;
 }
 
@@ -51,21 +46,21 @@
 
 /* Заголовки */
 .cm-header-1, h1 {
-    color: #ff5d65 !important;
+    color: #ec5f67 !important;
 }
 
 .cm-header-2, h2 {
-    color: #f28c54 !important;
+    color: #fac863 !important;
 }
 
 .cm-header-3, h3 {
-    color: #f0c360 !important;
+    color: #c2d66f !important;
 }
 
 .cm-header-4, h4 {
-    color: #9de07e !important;
+    color: #99b5c7  !important;
 }
 
 .cm-header-5, h5 {
-    color: #7ee0bc !important;
+    color: #9fa7c4 !important;
 }
