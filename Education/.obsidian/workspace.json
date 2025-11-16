@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "517c79aa3e75775e",
+        "id": "fb0d35ff8f5d20d7",
         "type": "tabs",
         "children": [
           {
-            "id": "07c20bfa6a3dd2b5",
+            "id": "a3255921701f21cc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251115115224.png"
+                "file": "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1.  - Проект с использование Kafka.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251115115224"
+              "icon": "lucide-file",
+              "title": "1.  - Проект с использование Kafka"
             }
           }
         ]
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Компактиза",
+                "query": "StreamSupp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5
+    "width": 552.5
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -163,47 +165,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "67d5951338681d46",
+  "active": "a3255921701f21cc",
   "lastOpenFiles": [
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251115113017.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/7.1 -- Consumer Group.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/7. - Получение данных, Consumer, ConsumerGroup, offset, commit.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251115115224.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/6.1 -- Retry и Idempotence Producer.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/6. - Отправка данных, Producer (at most-least-exactly once).md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251114211855.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/5. - Репликация партиций, балансировка и надежность.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/1. - Архитектура Kafka API, KafkaStreams.md",
+    "4. Технологии Backend/4. Брокеры сообщений/999. - Что необходимо обеспечить в брокерах сообщений.md",
+    "4. Технологии Backend/4. Брокеры сообщений/999. - Обеспечения ecatly_once и прочих.md",
+    "4. Технологии Backend/4. Брокеры сообщений/0. - Введение в брокеров сообщений, уровни доставки QoS.md",
+    "4. Технологии Backend/4. Брокеры сообщений/TODO.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/TODO.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/0. - Подключение jar файлов к проекту.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/1.1 -- Отправка с CallBack.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/1.2 -- Отправка в два топика, и транзакици.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. - Проект с Kafka + Spring.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1.  - Проект с использование Kafka.md",
-    "2. Spring Framework/3. Spring Data/3.1 DriverManagerDataSource И HikariDataSource.md",
-    "2. Spring Framework/3. Spring Data/3. Spring Data - JdbcTemplate ++.md",
-    "2. Spring Framework/3. Spring Data/1.1 ПРАКТИКА -  JDBC и CRUD-приложение.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251114120633.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251114210802.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251114232626.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/3.1 -- Компоненты.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/5. Stream API - org.apache.kafka.streams/2. DSL API - stream.kstreams/2. - Интерфейс KTable.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/5. Stream API - org.apache.kafka.streams/2. DSL API - stream.kstreams/1. - Интерфейс KStream.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/5. Stream API - org.apache.kafka.streams/2. DSL API - stream.kstreams/1.1 -- Ветвление потоков.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/5. Stream API - org.apache.kafka.streams/1. Stream API - streams/2. - Класс KafkaStreams.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/5. Stream API - org.apache.kafka.streams/1. Stream API - streams/3. - Класс StreamsBuilder.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/5. Stream API - org.apache.kafka.streams/1. Stream API - streams/1. - Класс StreamsConfig.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/5. Stream API - org.apache.kafka.streams/1. Stream API - streams/0. - ОБЗОР Stream API.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/5. Stream API - org.apache.kafka.streams/0. - ОБЗОР ПАКЕТОВ Stream API.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/3.2 -- Stateful и Stateless обработка в Kafka Streams.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/3. - Kafka Streams (Потоковая обработка).md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/0. МАТЕРИАЛЫ.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/4.1 -- Основные компоненты Kafka Connect.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/4. - Kafka Connect (Интеграция с внешними системами).md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/3.3 -- Копартицирвоание и репартицирвоание.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251114115624.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251114115338.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251113210539.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116145719.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  TODO Kafka API/3. Producer API - org.apache.kafka.clients.producer/1. Ядро Producer API/1.2 -- Класс KafkaProducer.md",
+    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/Дополнительные темы/2. - parallelStream VS stream.parallel.md",
+    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/Дополнительные темы/1. Примитивные потоки Int,Long,Double stream.md",
+    "1. Java17 (G.Shildt)/0. ЧИТАЙ ДОКУМЕНТАЦИЮ ВСЕГДА.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  TODO Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API/1.2 -- Класс KafkaConsumer.md",
+    "2. Spring Framework/1. Spring Core/Практические резюме/0. Общие для всех конфиг - Подключение зависимостей.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/6.1 -- Retry и Idempotence Producer.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.3 Параметры конфигурации Kafka/4. - Параметры Producer.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116150124.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116145906.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116145711.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116145642.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116145438.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/2. - Kafka Transaction.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116144937.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116144539.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251116141040.png",
+    "Pasted image 20251116142946.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.3 Параметры конфигурации Kafka/8.  - Параметры по умолчанию и проблемы.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/5. - Репликация партиций, балансировка и надежность.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  TODO Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/1. Ядро Consumer API/3. - Классы ConsumerRecord и ConsumerRecords.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  TODO Kafka API/4. Common API - org.apache.kafka.common/1. Ядро Common API - common/0. - ОБЗОР Common API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/1. - Простая передача сообщения.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/0.1 -- Развертывание брокера Kafka, Kafka-UI в Docer-compose, Docker.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.3 Параметры конфигурации Kafka/1. - Конфигурация Broker.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.3 Параметры конфигурации Kafka",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/Untitled",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251112164044.png",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2. TODO Kafka API/6. Connector API - org.apache.kafka.connect/Untitled",
