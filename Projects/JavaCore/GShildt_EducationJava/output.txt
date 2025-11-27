@@ -1,0 +1,5 @@
+Hello, world!
+12345.67
+true
+java.lang.Object@4517d9a3
+Name: Alex, Age: 25
