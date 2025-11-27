@@ -1,13 +1,11 @@
 
 /* Общие стили для всех callout-блоков */
 .callout[data-callout="note"] {
-    border-radius: 16px !important;
     border-left-width: 12px !important;
-    margin: 16px 0 !important;
 
-    background-color: #dbdbd3 !important;  
+    background-color: #18242b !important;  
     border-color: #5e6063!important;      
-    color: #1b2a32 !important;  
+    color: #b4c8d4 !important;  
     font-weight: 700 !important;           
 
 }
@@ -18,16 +16,16 @@
 
 /* Выделение текста ==маркером== */
 .cm-highlight, mark {
-    color: #1b2a32 !important;
+    color: #2b3b30 !important;
     font-weight: 700 !important;
-    background-color: #d8e8d8 !important;
+    background-color: #ffe4c4 !important;
 }
 
 
 /* Жирный шрифт */
 .cm-strong, strong {
-    color: #5facfa !important;
-    text-shadow: 1px 0px 0px #2d402e;
+    color: #10b981 !important;
+    text-shadow: 1px 0px 0px #062108;
     font-weight: 650 !important;
 }
 
@@ -36,9 +34,9 @@
 /* Стили для inline-кода, но не внутри callout и блоков кода */
 .cm-s-obsidian span.cm-inline-code:not(.cm-formatting),
 .markdown-rendered code:not(pre code) {
-    color: #ffffff !important;
+    color: #c0ebff !important;
     text-shadow: 1px 1px 2px black;
-    background-color: #c18ed4 !important;
+    background-color: #2e3e47 !important;
     border-radius: 10px;
     padding: 2px 6px;
     font-family: 'JetBrains Mono', 'Fira Code', monospace;
@@ -58,9 +56,9 @@
 }
 
 .cm-header-4, h4 {
-    color: #99b5c7  !important;
+    color: #96dae3  !important;
 }
 
 .cm-header-5, h5 {
-    color: #9fa7c4 !important;
+    color: #b6b4f0 !important;
 }

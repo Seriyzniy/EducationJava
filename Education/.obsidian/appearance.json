@@ -2,11 +2,11 @@
   "cssTheme": "",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "accentColor": "#8fceff",
+  "accentColor": "#b6ff8f",
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "JavaCodeStyle",
-    "MyJetBrainsMain"
+    "TestMyJetBrains"
   ],
   "textFontFamily": "JetBrains Mono,Arial",
   "nativeMenus": true
