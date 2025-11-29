@@ -34,11 +34,32 @@ public class CustomKafkaProducer {
 
             CustomKafkaProducer kafkaProducer = new CustomKafkaProducer(props.getProperty("kafka.bootstrap-servers"));
 
-            DataUser dataUser = new DataUser(1, "User-1", "RU");
-            DataProduct dataProduct = new DataProduct(101, 1, "Iphone", 1);
+            DataUser dataUser1 = new DataUser(1,"Tom","US");
+            DataUser dataUser2 = new DataUser(2, "Jerry", "US");
+            DataUser dataUser3 = new DataUser(3, "Alice", "RU");
+            DataUser dataUser4 = new DataUser(2, "Jerry", "US");
+            DataUser dataUser5 = new DataUser(1,"Tom","US");
+            DataUser dataUser6 = new DataUser(4, "Elizabeth", "RU");
 
-            kafkaProducer.sendUserRecord(props.getProperty("kafka.topic-users"), dataUser);
-            kafkaProducer.sendProductRecord(props.getProperty("kafka.topic-products"), dataProduct);
+            List<DataUser> dataUsers = List.of(dataUser1, dataUser2, dataUser3, dataUser4, dataUser5, dataUser6);
+
+            DataProduct dataProduct1 =
+                    new DataProduct(101,1,"Iphone",1);
+            DataProduct dataProduct2 =
+                    new DataProduct(102, 2, "MacBook Pro", 1);
+            DataProduct dataProduct3 =
+                    new DataProduct(103, 3, "Samsung Galaxy", 2);
+            DataProduct dataProduct4 =
+                    new DataProduct(104, 2, "AirPods", 3);
+            DataProduct dataProduct5 =
+                    new DataProduct(105, 1, "iPad", 1);
+            DataProduct dataProduct6 =
+                    new DataProduct(106, 4, "PlayStation 5", 1);
+
+            List<DataProduct> dataProducts = List.of(dataProduct1, dataProduct2, dataProduct3, dataProduct4, dataProduct5,dataProduct6);
+
+            kafkaProducer.sendUserRecord(props.getProperty("kafka.topic-users"), dataUsers);
+            kafkaProducer.sendProductRecord(props.getProperty("kafka.topic-products"), dataProducts);
 
         } catch (IOException e) {
             throw new RuntimeException(e);
@@ -61,28 +82,28 @@ public class CustomKafkaProducer {
         );
     }
 
-    public void sendUserRecord (String topic, DataUser user) {
-        HeaderDataType header = new HeaderDataType(user.getClass().getName(), Instant.now());
-
+    public void sendUserRecord (String topic, List<DataUser> users) {
         try (KafkaProducer<String, Data> producer = new KafkaProducer<>(props)){
-            List<Header> producerHeaders = new ArrayList<>();
-            producerHeaders.add(
-                    new RecordHeader(
-                            "DataType",
-                            objectMapper.writeValueAsBytes(header)
-                    )
-            );
+            for(DataUser user : users){
+                HeaderDataType header = new HeaderDataType(user.getClass().getName(), Instant.now());
+                List<Header> producerHeaders = new ArrayList<>();
+                producerHeaders.add(
+                        new RecordHeader(
+                                "DataType",
+                                objectMapper.writeValueAsBytes(header)
+                        )
+                );
 
-            ProducerRecord<String, Data> record =
-                    new ProducerRecord<>(
-                            topic,
-                            null,
-                            "users",
-                            user,
-                            producerHeaders);
+                ProducerRecord<String, Data> record =
+                        new ProducerRecord<>(
+                                topic,
+                                null,
+                                String.valueOf(user.getUserId()),
+                                user,
+                                producerHeaders);
 
-            producer.send(record).get(10, TimeUnit.SECONDS);
-
+                producer.send(record).get(10, TimeUnit.SECONDS);
+            }
         } catch (JsonProcessingException e) {
             System.out.println("Exception on serializer header on send record");
             throw new RuntimeException(e);
@@ -92,27 +113,29 @@ public class CustomKafkaProducer {
         }
     }
 
-    public void sendProductRecord (String topic, DataProduct product) {
-        HeaderDataType header = new HeaderDataType(product.getClass().getName(), Instant.now());
-
+    public void sendProductRecord (String topic, List<DataProduct> products) {
         try (KafkaProducer<String, Data> producer = new KafkaProducer<>(props)){
-            List<Header> producerHeaders = new ArrayList<>();
-            producerHeaders.add(
-                    new RecordHeader(
-                            "DataType",
-                            objectMapper.writeValueAsBytes(header)
-                    )
-            );
+            for(DataProduct product : products) {
+                HeaderDataType header = new HeaderDataType(product.getClass().getName(), Instant.now());
 
-            ProducerRecord<String, Data> record =
-                    new ProducerRecord<>(
-                            topic,
-                            null,
-                            "products",
-                            product,
-                            producerHeaders);
+                List<Header> producerHeaders = new ArrayList<>();
+                producerHeaders.add(
+                        new RecordHeader(
+                                "DataType",
+                                objectMapper.writeValueAsBytes(header)
+                        )
+                );
 
-            producer.send(record).get(10, TimeUnit.SECONDS);
+                ProducerRecord<String, Data> record =
+                        new ProducerRecord<>(
+                                topic,
+                                null,
+                                String.valueOf(product.getPurchaseId()),
+                                product,
+                                producerHeaders);
+
+                producer.send(record).get(10, TimeUnit.SECONDS);
+            }
 
         } catch (JsonProcessingException e) {
             System.out.println("Exception on serializer header on send record");

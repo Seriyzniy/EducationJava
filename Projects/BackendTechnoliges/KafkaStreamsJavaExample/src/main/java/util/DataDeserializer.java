@@ -13,11 +13,18 @@ public class DataDeserializer implements Deserializer<Data> {
 
     @Override
     public Data deserialize(String s, byte[] bytes) {
+        System.out.println("=== Simple Deserialization ===");
+        System.out.println("Topic: " + s);
+        System.out.println("Data: " + new String(bytes));
         return null;
     }
 
     @Override
     public Data deserialize(String topic, Headers headers, byte[] data) {
+        System.out.println("=== Headers Deserialization ===");
+        System.out.println("Topic: " + topic);
+        System.out.println("Data: " + new String(data));
+
         try {
             byte[] headerDataTypeByte = headers.lastHeader("DataType").value();
             HeaderDataType headerDataType = objectMapper.readValue(headerDataTypeByte, HeaderDataType.class);
