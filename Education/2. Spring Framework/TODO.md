@@ -1,1 +1,0 @@
-1) Транзакции в Spring (см документацию) DataSourceTransactionManager
