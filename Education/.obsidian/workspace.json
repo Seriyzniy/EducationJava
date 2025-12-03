@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "478e2c1bdfbf964f",
+        "id": "021fd0ee705a96b1",
         "type": "tabs",
         "children": [
           {
-            "id": "a81b2d37e50d8a3e",
+            "id": "19dae4c4b5d117c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4. Технологии Backend/2. Docker/1. Теория/2. - Архитектура Docker (Image, Container).md",
-                "mode": "source",
-                "source": false
+                "file": "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251201133547.png"
               },
-              "icon": "lucide-file",
-              "title": "2. - Архитектура Docker (Image, Container)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251201133547"
             }
           }
         ]
@@ -165,34 +163,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "a81b2d37e50d8a3e",
+  "active": "67d5951338681d46",
   "lastOpenFiles": [
-    "4. Технологии Backend/2. Docker/1. Теория/0. - Компоненты Docker (клиент-сервер).md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/2. - TODO Конфигурационные свойства для коннектора Debezium Postgres.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/3. Kafka Connect/1. - Написание проекта и конфига для Debezium.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/2. - Конфигурационные свойства для коннектора Debezium.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/3. Kafka Connect/0. - Зависимости, Kafka кластер и Kafka Connect.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.3 Параметры конфигурации Kafka/1. - Конфигурация Broker.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. - Принцип работы с Kafka Connect.md",
+    "2. Spring Framework/3. Spring Data/2.1 ПРАКТИКА - JDBC, PreparedStatement + реализация остальных методов DAO.md",
+    "2. Spring Framework/3. Spring Data/1.1 ПРАКТИКА -  JDBC и CRUD-приложение.md",
+    "2. Spring Framework/3. Spring Data/1. Spring Data - Введение (базы данных).md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/2. Kafka Streams/2. - Добавление Kafka Streams.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/2. Kafka Streams/0. - Подключение зависимостей, создание проекта и настройка класетра Kafka.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/3. Kafka Connect",
+    "4. Технологии Backend/8. TODO Масштабирование/1. - TODO.md",
+    "4. Технологии Backend/9. TODO Паттерны (GoF - Банта четырех)",
     "1. ЗАМЕТКИ.md",
+    "4. Технологии Backend/8. TODO Масштабирование",
+    "4. Технологии Backend/6.TODO API/2.- TODO OpenAPI и Swager.md",
+    "4. Технологии Backend/7. TODO Аутентификация и Авторизация",
+    "4. Технологии Backend/6.TODO API/TODO - Основы и ввод в тему.md",
+    "4. Технологии Backend/6.API/Untitled",
+    "5. Базы данных/1. - Транзакции и savepoint.md",
+    "4. Технологии Backend/6.TODO API",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/0. МАТЕРИАЛЫ.md",
+    "4. Технологии Backend/5. TODO CDC",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/1. - Архитектура Kafka API, KafkaStreams.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/4.1 -- Основные компоненты Kafka Connect.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251201133547.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/0. - KRaft + минимальный конфиг для 1 и N брокеров.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/4. - Kafka Connect (Интеграция с внешними системами).md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/0. - ОБЗОР ПАКЕТОВ Connect API.md",
+    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/0. - Отличия IO vs NIO.md",
+    "4. Технологии Backend/2. Docker/1. Теория/2. - Архитектура Docker (Image, Container).md",
+    "4. Технологии Backend/2. Docker/1. Теория/0. - Компоненты Docker (клиент-сервер).md",
     "4. Технологии Backend/0. - TODO ОБЗОР ТЕХНОЛОГИЙ Backend.md",
-    "4. Технологии Backend/4. Брокеры сообщений/TODO.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/Заметки.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Утилы для тестирования кластера в Docker.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/TODO.md",
-    "2. Spring Framework/TODO.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/Аннотации Spring Kafka.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/TODO.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/2. Получение сообщений/3. - Обработка исключений.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/4. Прочие темы/1. Обработка исключений/1. - Listener,Container Error Hadlers, BackOff.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/1. Отправка сообщений/0. - Принцип работы с Porducer в Spring.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/3. Получение сообщений/2. Дополнительные темы/3. - Перенаправление результатов SendTo.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/2. Получение сообщений/2. - Транзакционный и Идемпотентный Consumer.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. Spring Kafka Based/2.2 -- Подключение транзакций.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. Spring Kafka Based/2.3 -- @Transactional, Kafka и Postgres.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. Spring Kafka Based/2. - Проект с Kafka + Spring.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.3 Параметры конфигурации Kafka/3. - Параметры Consumer.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/3. Получение сообщений/1. База/3. - Аннотация KafkaListener.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/3. Получение сообщений/2. Дополнительные темы/4. - Фильтрация сообщений.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/2. Получение сообщений/1. - Принцип работы с Consumer в Spring.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. Spring Kafka Based/2.1 -- Добавление Jackson.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/3. Получение сообщений/1. База/3.5 -- Асинхронные возвращаемые типы KafkaListener.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/3. Получение сообщений/1. База/3.4 -- Валидатор Payload.md",
-    "2. Spring Framework/7. Spring for Apache Kafka/3. Получение сообщений/1. База/3.3 -- KafkaListener над классом.md",
     "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/2. Получение сообщений",
     "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/1. Отправка сообщений",
     "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме",
@@ -205,14 +211,6 @@
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251129172328.png",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251128145352.png",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251128145311.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251128143854.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. Spring Kafka Based",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/2. Kafka Streams",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/1. Kafka Based",
-    "2. Spring Framework/3. Spring Data/Транзакции в Spring",
-    "5. Базы данных",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/Untitled",
-    "2. Spring Framework/7. Spring for Apache Kafka/4. Прочие темы/2. Сериализация и Десериализация, Message Converter",
     "Untitled.canvas"
   ]
 }
