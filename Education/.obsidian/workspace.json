@@ -8,15 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19dae4c4b5d117c4",
+            "id": "62784930da149244",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251201133547.png"
+                "file": "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/3. Kafka Connect/1. - Написание проекта и конфига для Debezium.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251201133547"
+              "icon": "lucide-file",
+              "title": "1. - Написание проекта и конфига для Debezium"
+            }
+          },
+          {
+            "id": "55c888cc48d1916f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/2. - Конфигурационные свойства Kafka Connect и ДОСТУПНЫЕ КЛАССЫ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. - Конфигурационные свойства Kafka Connect и ДОСТУПНЫЕ КЛАССЫ"
             }
           }
         ]
@@ -165,52 +181,52 @@
   },
   "active": "67d5951338681d46",
   "lastOpenFiles": [
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/2. - TODO Конфигурационные свойства для коннектора Debezium Postgres.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251204110521.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251204110447.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251204110430.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251204105841.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/2. - Конфигурационные свойства Kafka Connect и ДОСТУПНЫЕ КЛАССЫ.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/3. Kafka Connect/1. - Написание проекта и конфига для Debezium.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/2. - Конфигурационные свойства для коннектора Debezium.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. Debezium/2. - Transforms (Преобразователи).md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. Debezium/2.4 -- Vitess Remove Field.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. Debezium/2.3 -- New Record State Extraction.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. Debezium/2.1 -- Topic-Routing.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/2. Kafka Streams/0. - Подключение зависимостей, создание проекта и настройка класетра Kafka.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/1. Kafka Based/0. - Подключение jar файлов к проекту.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. Debezium/2.2 -- ConvertCloudEventToSaveableForm.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/3. Kafka Connect/0. - Зависимости, Kafka кластер и Kafka Connect.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.3 Параметры конфигурации Kafka/1. - Конфигурация Broker.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. Spring Kafka Based/2. - Проект с Kafka + Spring.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. Spring Kafka Based/1. - Создание проекта и Подключение зависимостей.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/1. Kafka Based/1. - Простая передача сообщения.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. Debezium/1. - Конфигурационные свойства для коннектора Debezium Postgres.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251203224018.png",
+    "Pasted image 20251203224029.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251203223738.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251203223618.png",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. - Принцип работы с Kafka Connect.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. Debezium/2.4 -- TODO ConvertCloudEventToSaveableForm.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/2. Apache Kafka + Spring/1. Spring Kafka Based/2.2 -- Подключение транзакций.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251203220823.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251203220737.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251203220717.png",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/1. Debezium",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/2. - Конфигурационные свойства для коннектора Debezium.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.3 Параметры конфигурации Kafka/1. - Конфигурация Broker.md",
     "2. Spring Framework/3. Spring Data/2.1 ПРАКТИКА - JDBC, PreparedStatement + реализация остальных методов DAO.md",
     "2. Spring Framework/3. Spring Data/1.1 ПРАКТИКА -  JDBC и CRUD-приложение.md",
     "2. Spring Framework/3. Spring Data/1. Spring Data - Введение (базы данных).md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/2. Kafka Streams/2. - Добавление Kafka Streams.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/2. Kafka Streams/0. - Подключение зависимостей, создание проекта и настройка класетра Kafka.md",
     "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Чистый Apache Kafka + Java + Kafka-UI/3. Kafka Connect",
     "4. Технологии Backend/8. TODO Масштабирование/1. - TODO.md",
     "4. Технологии Backend/9. TODO Паттерны (GoF - Банта четырех)",
     "1. ЗАМЕТКИ.md",
     "4. Технологии Backend/8. TODO Масштабирование",
-    "4. Технологии Backend/6.TODO API/2.- TODO OpenAPI и Swager.md",
     "4. Технологии Backend/7. TODO Аутентификация и Авторизация",
-    "4. Технологии Backend/6.TODO API/TODO - Основы и ввод в тему.md",
     "4. Технологии Backend/6.API/Untitled",
-    "5. Базы данных/1. - Транзакции и savepoint.md",
     "4. Технологии Backend/6.TODO API",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/0. МАТЕРИАЛЫ.md",
     "4. Технологии Backend/5. TODO CDC",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/1. - Архитектура Kafka API, KafkaStreams.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/4.1 -- Основные компоненты Kafka Connect.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251201133547.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/0. - KRaft + минимальный конфиг для 1 и N брокеров.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.2 Дополнительные темы/4. - Kafka Connect (Интеграция с внешними системами).md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/6. Connector API - org.apache.kafka.connect/0. - ОБЗОР ПАКЕТОВ Connect API.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/0. - Отличия IO vs NIO.md",
-    "4. Технологии Backend/2. Docker/1. Теория/2. - Архитектура Docker (Image, Container).md",
-    "4. Технологии Backend/2. Docker/1. Теория/0. - Компоненты Docker (клиент-сервер).md",
-    "4. Технологии Backend/0. - TODO ОБЗОР ТЕХНОЛОГИЙ Backend.md",
     "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/2. Получение сообщений",
     "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/1. Отправка сообщений",
-    "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251129174322.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251129174135.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251129173512.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251129173255.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251129173121.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251129172928.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251129172328.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251128145352.png",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/images/Pasted image 20251128145311.png",
     "Untitled.canvas"
   ]
 }
