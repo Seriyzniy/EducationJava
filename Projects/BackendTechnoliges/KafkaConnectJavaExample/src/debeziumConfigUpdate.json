@@ -1,0 +1,29 @@
+{
+  "connector.class": "io.debezium.connector.postgresql.PostgresConnector",
+  "plugin.name": "pgoutput",
+
+  "database.hostname": "host.docker.internal",
+  "database.port": "5532",
+  "database.user": "postgres",
+  "database.password": "postgres",
+  "database.dbname" : "testdb",
+  "topic.prefix": "pg-dev",
+
+  "table.include.list": "public.(.*)",
+  "heartbeat.interval.ms": "5000",
+  "publication.name": "dbname_publication",
+  "slot.name": "dbname_debezium",
+
+  "key.converter": "org.apache.kafka.connect.json.JsonConverter",
+  "key.converter.schemas.enable": "false",
+
+  "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+  "value.converter.schemas.enable": "false",
+
+  "transforms": "unwrap,remove_id",
+
+  "transforms.unwrap.type": "io.debezium.transforms.ExtractNewRecordState",
+
+  "transforms.remove_id.type": "org.apache.kafka.connect.transforms.ReplaceField$Value",
+  "transforms.remove_id.exclude": "id"
+}
