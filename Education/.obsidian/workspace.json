@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "77ab2b8b5423ecf9",
+        "id": "85f32e35027b4ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "549bd19e4b3ff0d7",
+            "id": "07cdbf5a1d5d1faa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.  TODO- TOP List.md",
+                "file": "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка/2. - Интерфейс Channel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.  TODO- TOP List"
+              "title": "2. - Интерфейс Channel"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nack",
+                "query": "Record",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5,
-    "collapsed": true
+    "width": 579.5
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -166,54 +165,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "549bd19e4b3ff0d7",
+  "active": "07cdbf5a1d5d1faa",
   "lastOpenFiles": [
-    "4. Технологии Backend/6.TODO API/TODO - Основы и ввод в тему.md",
-    "Шаблоны для конспекта.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка/2. - Интерфейс Channel.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/0. - ОБЗОР RabbitMQ API.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/0. - ОБЗОР подпакета .client.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка/4. - Интерфейс DeliverCallback.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка/3.1 -- Класс DefaultConsumer.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка/3. - Интерфейс Consumer.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/2. Данные о сообщениях, и свойства/3. - Класс BasicProperties.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/4. Queues/1. База/2. - Временные, Эксклюзивные очереди.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/3. - Сообщения в Rabbit.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3. Consumers/1. База/1. - Основы Consumer в Rabbit.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3. Consumers/1. База/2. - Сообщения в Rabbit.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3. Consumers/1. База/4. - Приоритет, Обработка ошибок и Вопросы параллелизма.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3. Consumers/2. Дополнительные темы/2. - Предварительная выборка потребителя (Consumer Prefetch).md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/3. Практика/1. RabbitMQ+Java/2. - Пример-2 (Work Queues).md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/3. Практика/1. RabbitMQ+Java/1. - Пример-1 (Hello World).md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/4. - Подтверждение Producer и безопасность данных.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/2. Дополнительные темы/1. - Direct Reply-To и RPC.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213173358.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213171737.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213171531.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213171514.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213171239.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213171017.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213164643.png",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/2. Данные о сообщениях, и свойства/1. - Класс Delivery (Сообщение).md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка/4. - Интерфейс DeliverCallback.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/0. - Введение в модули и их основы, НЕ СОВСЕМ КОРРЕКТНЫЙ пример.md",
+    "1. Java17 (G.Shildt)/1. Java SE/16. Модули, сборка модулей, jlink/5. - Использование служб (Services), ЛУЧШИЙ пример.md",
+    "1. Java17 (G.Shildt)/2. - УТИЛИТЫ javac, jar, java.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213151733.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213151718.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213151611.png",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка/3.1 -- Класс DefaultConsumer.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/2. Данные о сообщениях, и свойства/2. - Класс BasicProperties.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Apache Kafka + Java + Kafka-UI/2. Kafka Streams/1. - Написание проекта Kafka Streams + Java.md",
+    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/21.5 Пакет java.time, java.text/java.time/10. - Преобразования между классами.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Apache Kafka + Java + Kafka-UI/2. Kafka Streams/0. - Подключение зависимостей, создание проекта и настройка класетра Kafka.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка/2. - Интерфейс Channel.md",
+    "1. Java17 (G.Shildt)/1. Java SE/17. Выражения switch, записи и прочие недавно  добавленные средства/4. - Записи Record.md",
+    "2. Spring Framework/7. Spring for Apache Kafka/4. Прочие темы/1. Обработка исключений/1.1 -- DefaultErrorHandler.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1. Apache Kafka + Java + Kafka-UI/1. Kafka Based/1.1 -- Отправка с CallBack.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/4. Common API - org.apache.kafka.common/2. Сериализация -  common.serialization/1. - Интерфейс Serializer.md",
+    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/26. Регулярки, Рефлексия, RMI/2. Рефлексия/1. - Введение.md",
+    "2. Spring Framework/7. Spring for Apache Kafka/0. Практическое резюме/1. Отправка сообщений/0. - Принцип работы с Porducer в Spring.md",
+    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/2.  Kafka API/2. Consumer API - org.apache.kafka.clients.consumer/0. - ОБЗОР  Consumer API.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/3. Практика/1. RabbitMQ+Java/Untitled",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/2. Данные о сообщениях, и свойства",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3. - Методы AMQP 0-9-1 и их отображение в Java.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/2. Данные о сообщениях, и свойства/2. - Класс Envelope.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/1. Подключение к Rabbit",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/1. Подключение к Rabbit/1.2 -- Класс ConnectionFactory.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/1. Подключение к Rabbit/1. - Интерфейс Connection.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq",
-    "3.  TODO- TOP List.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/3. Практика/1. RabbitMQ+Java/0. - Подключение зависимостей и описание проекта.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/3. Практика/1.  - Проект с использование Kafka.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/3. Практика/2. RabbitMQ+Spring",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/3. Практика/1. RabbitMQ+Java",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/3. Практика",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3.1 -- Параметры конфигурации.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/4. Queues/2. Дополнительные темы/1. - Classic Queue.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/10. - РЕЗЮМЕ Producer-Broker-Consumer.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/3. - Kafka Message (Record, Event).md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/2. - Broker, Kafka кластер, Zookeper.md",
-    "4. Технологии Backend/4. Брокеры сообщений/2. Kafka - это лог/1. Теория/1.1 База/1. - Введение в Kafka, основные компоненты.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/Untitled.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/4. Queues/2. Дополнительные темы",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251210154430.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209152706.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209152727.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209215114.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209215353.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209151921.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209150932.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209150829.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209150808.png",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/images/Pasted image 20251209150507.png",
     "Untitled.canvas"
   ]
 }
