@@ -4,12 +4,13 @@
 #### Header4
 ##### Header5
 
-
 > [!NOTE] Title `sadas`
 > jnbl
 > 
 
 **asdasasdas**
+*cursive*
+
 ==asdasdasdas==
 `asdasdsa`
 
@@ -17,24 +18,37 @@
 
 # Стиль текста
 ```css
+.callout {
+    border: 5px solid #affcae;
+    border-radius: 8px;
+    background-color: var(--background-secondary);
+}
+
+.callout-title {
+    color: #affcae !important; /* Оранжевый цвет */
+}
+
 /* Выделение текста ==маркером== */
 .cm-highlight, mark {
-    color: #f5f5f5 !important;
-    text-shadow: 1px 1px 2px black;
-    background-color: #D68631 !important;
+    color: #2b3b30 !important;
+    font-weight: 700 !important;
+    background-color: #ffe4c4 !important;
 }
+
 
 /* Жирный шрифт */
 .cm-strong, strong {
-    color: #56a8f5 !important;
+    color: #2979FF !important;
+    text-shadow: 1px 0px 0px #062108;
+    font-weight: 650 !important;
 }
 
 /* Стили для inline-кода, но не внутри callout и блоков кода */
 .cm-s-obsidian span.cm-inline-code:not(.cm-formatting),
 .markdown-rendered code:not(pre code) {
-    color: #ffffff !important;
+    color: #c0ebff !important;
     text-shadow: 1px 1px 2px black;
-    background-color: #cca8f5 !important;
+    background-color: #2e3e47 !important;
     border-radius: 10px;
     padding: 2px 6px;
     font-family: 'JetBrains Mono', 'Fira Code', monospace;
@@ -42,23 +56,23 @@
 
 /* Заголовки */
 .cm-header-1, h1 {
-    color: #e7817e !important;
+    color: #f04a53 !important;
 }
 
 .cm-header-2, h2 {
-    color: #e69875 !important;
+    color: #ff9142 !important;
 }
 
 .cm-header-3, h3 {
-    color: #dbe87d !important;
+    color: #c2d66f !important;
 }
 
 .cm-header-4, h4 {
-    color: #98e97c !important;
+    color: #87e1ed  !important;
 }
 
 .cm-header-5, h5 {
-    color: #7ce9b8 !important;
+    color: #b296ff !important;
 }
 ```
 

@@ -1,18 +1,12 @@
-
-/* Общие стили для всех callout-блоков */
-.callout[data-callout="note"] {
-    border-left-width: 12px !important;
-
-    background-color: #18242b !important;  
-    border-color: #5e6063!important;      
-    color: #b4c8d4 !important;  
-    font-weight: 700 !important;           
-
-}
-.callout-title[data-callout="note"] {
-    color: #1b2a32 !important;            
+.callout {
+    border: 5px solid #affcae;
+    border-radius: 8px;
+    background-color: var(--background-secondary);
 }
 
+.callout-title {
+    color: #affcae !important; /* Оранжевый цвет */
+}
 
 /* Выделение текста ==маркером== */
 .cm-highlight, mark {
@@ -24,12 +18,18 @@
 
 /* Жирный шрифт */
 .cm-strong, strong {
-    color: #10b981 !important;
+    color: #5c98ff !important;
     text-shadow: 1px 0px 0px #062108;
     font-weight: 650 !important;
 }
 
-
+/* Курсивный шрифт */
+em,
+i,
+.cm-em,
+.markdown-rendered em {
+    color: #c4e7ff !important;
+}
 
 /* Стили для inline-кода, но не внутри callout и блоков кода */
 .cm-s-obsidian span.cm-inline-code:not(.cm-formatting),
@@ -44,11 +44,11 @@
 
 /* Заголовки */
 .cm-header-1, h1 {
-    color: #ec5f67 !important;
+    color: #f04a53 !important;
 }
 
 .cm-header-2, h2 {
-    color: #fac863 !important;
+    color: #ff9142 !important;
 }
 
 .cm-header-3, h3 {
@@ -56,9 +56,9 @@
 }
 
 .cm-header-4, h4 {
-    color: #96dae3  !important;
+    color: #87e1ed  !important;
 }
 
 .cm-header-5, h5 {
-    color: #b6b4f0 !important;
+    color: #b296ff !important;
 }
