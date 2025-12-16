@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Технологии Backend/1. Git/5. - Отмена изменений (reset и revert).md",
+                "file": "2. Spring Framework/8. Spring and AMQP/2. Отправка сообщений/3. - Отправка сообщений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. - Отмена изменений (reset и revert)"
+              "title": "3. - Отправка сообщений"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Record",
+                "query": "RabbitAdmin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,6 +168,17 @@
   },
   "active": "c1e7c9aae9fa533d",
   "lastOpenFiles": [
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/2. - Протоколы AMQP, MQTT, STOMP.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/1. - Основы Publisher в Rabbit.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/4. - Подтверждение Producer и безопасность данных.md",
+    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3.1 -- Параметры конфигурации.md",
+    "2. Spring Framework/8. Spring and AMQP/2. Отправка сообщений/3. - Отправка сообщений.md",
+    "2. Spring Framework/8. Spring and AMQP/2. Отправка сообщений/2. - Интеграция с Messaging, Validated User Id, Отдельное соединение.md",
+    "2. Spring Framework/8. Spring and AMQP/2. Отправка сообщений/1. - Интерфейс AmqpTemplate.md",
+    "3.  TODO- TOP List.md",
+    "2. Spring Framework/1. Spring Core/8. - TODO Retry.md",
+    "4. Технологии Backend/1. Git/5. - Отмена изменений (reset и revert).md",
+    "2. Spring Framework/8. Spring and AMQP/2. Отправка сообщений",
     "2. Spring Framework/8. Spring and AMQP/1. Подключение и управление ресурсами/2. - Управление соединением.md",
     "Untitled.md",
     "2. Spring Framework/8. Spring and AMQP/images",
@@ -183,20 +194,11 @@
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3. - Методы AMQP 0-9-1 и их отображение в Java.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/7. - Устранение неполадок издателя (Troubleshooting).md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/6. - Метрики, Вопросы параллелизма, Временная блокировка публикаций.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/4. - Подтверждение Producer и безопасность данных.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/3. - Сообщения в Rabbit.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. Publishing Message/1. База/1. - Основы Publisher в Rabbit.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/4. Queues/1. База/4. - TTL, Хранение на диске, Приоритеты, Вопросы по загрузке ЦП.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/2. - Queue, Message, Consumer.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/1. - Publiher, Exchange, Bindings.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3.1 -- Параметры конфигурации.md",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/4. Queues/1. База/2. - Временные, Эксклюзивные очереди.md",
-    "1. Java17 (G.Shildt)/1. Java SE/14. Обобщения/1. - Введение в Обобщения, обобщенный КЛАСС, МЕТОД и КОНСТРУКТОР.md",
-    "1. Java17 (G.Shildt)/1. Java SE/11. Многопоточность/4. Классы Синхронизаторы и коллекции/Коллекции/6. - Класс ConcurrentSkipListSet.md",
-    "1. Java17 (G.Shildt)/1. Java SE/11. Многопоточность/4. Классы Синхронизаторы и коллекции/Коллекции/4. - Класс ConcurrentHashMap.md",
-    "1. Java17 (G.Shildt)/1. Java SE/11. Многопоточность/4. Классы Синхронизаторы и коллекции/Коллекции/1. - Введение, Многопоточные VS Синхронизованные коллекции.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/4. Queues/1. База/0. - Основы Queue в Rabbit.md",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/1. Теория/3. Consumers/1. База/3. - Настройка приема сообщений.md",
     "2. Spring Framework/8. Spring and AMQP",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213173358.png",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/images/Pasted image 20251213171737.png",
@@ -212,7 +214,6 @@
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/3. Channel, Сообщение, принятие и отправка",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client/1. Подключение к Rabbit",
     "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq/1. Пакет - client",
-    "4. Технологии Backend/4. Брокеры сообщений/3. RabbitMQ/2. RabbitMQ API/1. Пакеты - com.rabbitmq",
     "Untitled.canvas"
   ]
 }
