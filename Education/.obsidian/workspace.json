@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/МАТЕРИАЛЫ.md",
+                "file": "4. Технологии Backend/0. - TODO ОБЗОР ТЕХНОЛОГИЙ Backend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "МАТЕРИАЛЫ"
+              "title": "0. - TODO ОБЗОР ТЕХНОЛОГИЙ Backend"
             }
           }
         ]
@@ -167,8 +167,16 @@
   },
   "active": "67d5951338681d46",
   "lastOpenFiles": [
-    "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/2. - HTTPS.md",
+    "1. ЗАМЕТКИ.md",
+    "3.  TODO- TOP List.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/МАТЕРИАЛЫ.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/3.1 -- TLS.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/3.2 --.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/3. - SSL (Secure Socket Layer) и TLS (Transport Layer Security).md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260115204232.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260115200437.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260115200305.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/2. - HTTPS.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260115153805.png",
     "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/1. - HTTP.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260115152802.png",
@@ -184,8 +192,6 @@
     "Шаблоны для конспекта.md",
     "TO BE CyberSecurity.md",
     "Стиль Obsidian . css.md",
-    "3.  TODO- TOP List.md",
-    "1. ЗАМЕТКИ.md",
     "2. - Общий принцип разработки.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/1. - Основные понятия и Модели авторизации.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/6. - Авторизация и права доступа.md",
@@ -195,17 +201,11 @@
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/2. - Типы аутентификаци.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260112193114.png",
     "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260112193040.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260112193024.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260112192957.png",
     "3. Hibernate/Hibernate - Дополнение/3. Hibernate - Проблема N+1.md",
     "3. Hibernate/4. Hibernate - Отношение 1 к М.md",
-    "Pasted image 20260112191512.png",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/8. - Двух факторная аутентификация.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/7. - OAtuh2 и OpenID Connect.md",
-    "Untitled.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/images",
-    "Проекты/LogAnalizator/1. - Конфигурация Nginx.md",
-    "1. Java17 (G.Shildt)/1. Java SE/11. Многопоточность/5. Управление пулами потоков (Executor и задачи)/5.1 - Фреймворк Executor и ExecutorService, жизненный цикл.md",
     "Проекты/LogAnalizator",
     "2. Spring Framework/8. Spring and AMQP/0. Практическое руководство и быстрый старт/2. Прием сообщений",
     "2. Spring Framework/8. Spring and AMQP/0. Практическое руководство и быстрый старт/1. Отправка сообщений",
