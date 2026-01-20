@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35033b8c6a70789f",
+        "id": "9cf666b628782371",
         "type": "tabs",
         "children": [
           {
-            "id": "69a689d6583630bf",
+            "id": "8bb065b79cab302f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Технологии Backend/8. TODO Масштабирование/1. - TODO.md",
+                "file": "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.5 -- SAML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. - TODO"
+              "title": "3.5 -- SAML"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 674.5041847229004
+    "width": 477.501522064209
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -165,54 +165,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "69a689d6583630bf",
+  "active": "67d5951338681d46",
   "lastOpenFiles": [
-    "4. Технологии Backend/6. TODO API/TODO - Основы и ввод в тему.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118162752.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118162637.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118162019.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118161156.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118160830.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118160341.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118160240.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118160134.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118160010.png",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260118155351.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.4 -- OAuth2 и OpenID Connect.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.5 -- SAML.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/1. Теория/4. - SAML.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/1. Теория/3. - Grant Type.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.4.1 --- Практический пример OAuth 2.0.md",
-    "Untitled.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.4 -- OAtuh2 и OpenID Connect.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/2. - Типы аутентификаци.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3 -- HTTP-авторизация.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.2 -- Токены и JWT (JSON Web Token).md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.3 -- Сессия и Куки (Session and Cookie).md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS/1. - HTTP.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.1 -- Basic Auth.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/5. - Авторизация и права доступа.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/9. - Виды HTTP-авторизации (Base Auth, JWT, Session-Cookie, OAuth).md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/4. - Пароли и безопасность.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/2.1 -- Base Auth.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/3. - ПРАКТИКА - Простой сервлет.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/2. - Tomcat (консоль), НАСТРОЙКА, web.xml VS Annotation.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet.http/6. - Класс HttpFilter.md",
-    "1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet.http/4. - Интерфейс HttpServletRequest.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260120130316.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260120130101.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/1. Теория/1. - Введение в KeyCloak и Docker-compose.md",
+    "Pasted image 20260120124918.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260120124956.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260120125100.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260120125248.png",
+    "Pasted image 20260120125053.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260120123957.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260120124229.png",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260120124624.png",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/8. - Безопасность и угрозы.md",
-    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/7. - Двух факторная аутентификация.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/1. Теория/3. - Grant Types.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/1. - Основные понятия и Модели авторизации.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/3.2 -- Токены, JWT (JSON Web Token), Opaque.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/1. Теория/2.2 -- (Configure) Realm Settings, Authentication, Identity providers, User federation.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/1. Теория/2.1 -- Users, Groups, Sessions, Events,.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/1. Теория/2. - Базовые понятия (режим запуска,Reaml,Clients,Scope,Realm Role).md",
+    "TO BE CyberSecurity.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/МАТЕРИАЛЫ.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak/1. Теория",
+    "4. Технологии Backend/2. Docker/1. Теория/9. - Переменные окружения.md",
+    "4. Технологии Backend/2. Docker/1. Теория/8. - Volume Mapping (Маппинг томов).md",
+    "1. Java17 (G.Shildt)/1. - Полезные ССЫЛКИ по Java.md",
+    "4. Технологии Backend/2. Docker/1. Теория/5. - ОСНОВНЫЕ команды docker.md",
+    "4. Технологии Backend/2. Docker/1. Теория/4. - Как упрощается разработка при помощи Docker.md",
+    "4. Технологии Backend/2. Docker/1. Теория/3. - Репозиторий и Реестр Docker.md",
+    "4. Технологии Backend/2. Docker/1. Теория/2. - Архитектура Docker (Image, Container).md",
+    "4. Технологии Backend/2. Docker/1. Теория/1. - Введение, как работало без Docker.md",
+    "4. Технологии Backend/2. Docker/1. Теория/0. - Компоненты Docker (клиент-сервер).md",
+    "2. Spring Framework/5. Spring Security/1. Spring Security - Введение.md",
+    "4. Технологии Backend/8. TODO Масштабирование/1. - TODO.md",
+    "4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/Untitled",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация/1. Теория",
-    "5. Базы данных/2. - Уровни изоляций транзакций.md",
-    "5. Базы данных/0. - ACID и проблемы которые он решает.md",
-    "5. Базы данных/1. - Транзакции и savepoint.md",
-    "4. Технологии Backend/0. - TODO ОБЗОР ТЕХНОЛОГИЙ Backend.md",
-    "1. ЗАМЕТКИ.md",
-    "3.  TODO- TOP List.md",
     "4. Технологии Backend/7. TODO Сеть и безопасность/0. База HTTP, HTTPS, SSL, TLS",
     "4. Технологии Backend/7. TODO Сеть и безопасность/1. Аутентификация и авторизация",
     "4. Технологии Backend/7. TODO Сеть и безопасность/images",
     "Проекты/LogAnalizator",
     "2. Spring Framework/8. Spring and AMQP/0. Практическое руководство и быстрый старт/2. Прием сообщений",
     "2. Spring Framework/8. Spring and AMQP/0. Практическое руководство и быстрый старт/1. Отправка сообщений",
-    "2. Spring Framework/8. Spring and AMQP/4. Общее",
     "Untitled.canvas"
   ]
 }
