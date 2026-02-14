@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27b6510f914fe6ba",
+        "id": "bacc7e608f228fec",
         "type": "tabs",
         "children": [
           {
-            "id": "116ba97a057625f0",
+            "id": "576ae845e168228b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/8 - Другие методы Stream.md",
+                "file": "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие/5. - TODO Регистры Накоплений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Другие методы Stream"
+              "title": "5. - TODO Регистры Накоплений"
             }
           }
         ]
@@ -165,8 +165,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "116ba97a057625f0",
+  "active": "67d5951338681d46",
   "lastOpenFiles": [
+    "2. Разработчик 1С/1. Основа 1С (Мои заметки)/1. - Структура 1С Предприятия и Информационная База.md",
+    "2. Разработчик 1С/1. Основа 1С (Мои заметки)/0. - Важные Замечания.md",
+    "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие/5. - TODO Регистры Накоплений.md",
+    "2. Разработчик 1С/1. Основа 1С (Мои заметки)/2.1 -- Вкладка Общее и ее содержимое.md",
+    "2. Разработчик 1С/ЗАМЕТКИ.md",
+    "2. Разработчик 1С/1. Основа 1С (Мои заметки)/4. - Модули (Кода и Форм) и Менеджеры объектов.md",
+    "2. Разработчик 1С/Images/Pasted image 20260214155518.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214155334.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214155308.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214155146.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214155046.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214154922.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214154648.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214154531.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214154305.png",
+    "2. Разработчик 1С/Images/Pasted image 20260214154255.png",
+    "2. Разработчик 1С/1. Основа 1С (Мои заметки)/3. - Встроенный язык (код 1С).md",
+    "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие/4. - Документы и типообразующие объекты конфигурации.md",
+    "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие/3. - Справочники и объяснение Табличной части.md",
+    "2. Разработчик 1С/1. Основа 1С (Мои заметки)/2.2 -- Прочие вкладки.md",
+    "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие/1. - Конфигурация.md",
+    "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие/2. - Подсистемы и UI.md",
+    "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие/Общее для объектов/1. - Настройка Командного интерфейса.md",
+    "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие/Общее для объектов",
+    "2. Разработчик 1С/2. Азы программирования за 21 день/1. - Справочники, константы и перечесления.md",
+    "2. Разработчик 1С/2. Радченко Хрусталев - Практическое пособие",
+    "2. Разработчик 1С/МАТЕРИАЛЫ.md",
+    "2. Разработчик 1С/2. Азы программирования за 21 день",
+    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/8 - Другие методы Stream.md",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/6. - Накопление и Collector.md",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/5. - Сопоставление - map().md",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/3. - Редукция, метод reduce().md",
@@ -177,32 +206,6 @@
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/24. Обработка событий/1. Классы событий и их Слушатели/0. - Классы адаптеры, WindowAdapter.md",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/2. Пакет java.net.http/2 - WebSocket.md",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/2. Пакет java.net.http/1.4 -- HttpHeaders.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/2. Пакет java.net.http/1.3 -- Интерфейс HttpResponse.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/2. Пакет java.net.http/1.2 -- Абстрактный HttpRequest и внутренние классы.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/2. Пакет java.net.http/1.1 -- Абстрактный HttpClient, и вложенный интерфейс Builder.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/2. Пакет java.net.http/1 - java.net.http, Http Client API.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/4. Proxy/1. - Класс Proxy.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/5. Аутентификация/1. - Абстрактный Authenticator.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/5. Аутентификация/2. - PasswordAuthentication.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/4. Proxy/2. - Абстрактный ProxySelector.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/3. Cookie/1.3 -- Интерфейс CookieStore.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/3. Cookie/1.1 -- CookieManager.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/3. Cookie/1. - Абстрактный CookieHandler.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/2. URL и URI/1.1.1 --- Класс HttpURLConnection (low-level HttpClient).md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/2. URL и URI/1.1 -- Абстрактный URLConnection.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/2. URL и URI/1. - Вводная по URL и класс URL.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/1. Сокеты/1.3 -- Класс DatagramSocket.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/23. Пакет java.net. Работа в сети/1. Пакет java.net/1. Сокеты/1.2 -- Класс ServerSocket.md",
-    "2. Разработчик 1С/Images/Pasted image 20260210210129.png",
-    "2. Разработчик 1С/Images/Pasted image 20260210210105.png",
-    "2. Разработчик 1С/Images/Pasted image 20260210205412.png",
-    "2. Разработчик 1С/Images/Pasted image 20260209205856.png",
-    "2. Разработчик 1С/Images/Pasted image 20260209174937.png",
-    "2. Разработчик 1С/Images/Pasted image 20260209175940.png",
-    "2. Разработчик 1С/Images/Pasted image 20260209174555.png",
-    "2. Разработчик 1С/Images/Pasted image 20260209174333.png",
-    "2. Разработчик 1С/Images/Pasted image 20260209173914.png",
-    "2. Разработчик 1С/Images/Pasted image 20260209173627.png",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/26. Регулярки, Рефлексия, RMI/3. RMI (Удаленный вызов методов)/Классы и интерфейсы RMI",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/26. Регулярки, Рефлексия, RMI/2. Рефлексия/Дополнительные классы и интерфейсы",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet.http/3. Обертки",
@@ -210,9 +213,6 @@
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet.http/1. Сессии и куки",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet/5. ПРОГРАММНАЯ регистрация компонентов",
     "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet/4. Фильтры",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet/3. Конфигурация сервлетов",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet/2. Асинхронная обработка и чтение-запись данных",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet/1. Обертки для фильтров",
     "Untitled.canvas"
   ]
 }
